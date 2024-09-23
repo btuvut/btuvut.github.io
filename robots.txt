@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://btuvut.github.io/sitemap/sitemap.txt
